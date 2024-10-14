@@ -9,7 +9,3 @@
 - 👨🏻 [facebook.com/romaklimenko](https://www.facebook.com/romaklimenko)
 - 📷 [instagram.com/romaklimenko](https://instagram.com/romaklimenko)
 - 𝕏 [x.com/romaklimenko](https://x.com/romaklimenko)
-
-Some of my old pet projects that still attract some visitors: 🐇
-- A cheating app for the Letterpress game: https://romaklimenko.github.io/cheat/
-- Sunrises and sunsets at your location: https://romaklimenko.github.io/sun/
