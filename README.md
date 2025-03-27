@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 - 👨🏻‍💻 I’m Roman Klimenko, a professional **software developer** and **solutions architect** based in **Copenhagen, Denmark**.
-- 🌐 Microsoft Certified: Azure Administrator Associate.
-- 🏭 Microsoft Certified: Fabric Analytics Engineer Associate.
-- 🏭 Microsoft Certified: Fabric Data Engineer Associate.
+- 🧱 Databricks Certified Data Engineer Professional.
+- 🏭 Microsoft Certified Fabric Analytics Engineer Associate.
+- 🏭 Microsoft Certified Fabric Data Engineer Associate.
+- 🌐 Microsoft Certified Azure Administrator Associate.
 - 🌱 I work with .NET, Python, Node.js, databases, Azure, AI, and other things.
 - 🌍 [klimenko.dk](https://klimenko.dk/)
 - 💼 [linkedin.com/in/romaklimenko](https://linkedin.com/in/romaklimenko)
