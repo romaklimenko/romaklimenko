@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 👨🏻‍💻 I’m Roman Klimenko, a professional **software developer** and **solutions architect** based in **Copenhagen, Denmark**.
+- 💡 I design and implement business-oriented data and IT engineering solutions.
 - ⛃ Certified dbt Developer.
 - 🧱 Databricks Certified Data Engineer Professional.
 - 🏭 Microsoft Certified Fabric Analytics Engineer Associate.
