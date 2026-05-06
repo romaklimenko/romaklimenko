@@ -15,4 +15,5 @@
 - 𝕏 [x.com/romaklimenko](https://x.com/romaklimenko)
 
 Pet Projects 🐕:
-- [dotfiles.klimenko.dk](https://dotfiles.klimenko.dk) - dotfiles
+- [dotfiles.klimenko.dk](https://dotfiles.klimenko.dk) - my dotfiles.
+- [ord.klimenko.dk](https://ord.klimenko.dk) - Danish vocabulary training, see [How many words I learned in a year](https://klimenko.dk/blog/2018/how-many-words).
