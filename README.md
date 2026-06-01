@@ -17,3 +17,4 @@
 Pet Projects 🐕:
 - [dotfiles.klimenko.dk](https://dotfiles.klimenko.dk) - my dotfiles.
 - [ord.klimenko.dk](https://ord.klimenko.dk) - Danish vocabulary training, see [How many words I learned in a year](https://klimenko.dk/blog/2018/how-many-words).
+- [sun.klimenko.dk](https://sun.klimenko.dk) - Sunrise and sunset times over the year.
